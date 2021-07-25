@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-php-app
-        image: chinnudocker555/mypython-app
+        image: chinnudocker555/my-pythonapp
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
